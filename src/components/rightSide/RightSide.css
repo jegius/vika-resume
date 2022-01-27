@@ -1,0 +1,59 @@
+.RightSide {
+    flex-basis: 55%;
+    margin-left: 2rem;
+}
+
+.RightSide__about-me {
+    font-size: .6rem;
+}
+
+.RightSide__experience-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.RightSide__experience-company-name {
+    color: #016dc4;
+    font-size: 1.1rem;
+}
+.RightSide__experience-company-years {
+    color: #919193;
+    font-size: .7rem;
+}
+
+.RightSide__experience-company-time {
+    color: #016dc4;
+    font-size: 1.1rem;
+}
+
+.RightSide__experience-goes {
+    font-size: .6rem;
+    flex-basis: 70%;
+}
+.RightSide__experience-point {
+    flex-basis: 10%;
+}
+
+.RightSide__experience-company {
+    flex-basis: 40%;
+}
+
+.education__university {
+    font-size: .9rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.education__part {
+    margin-top: .5rem;
+    font-size: .7rem;
+}
+
+.education__years {
+    margin-top: .3rem;
+    color: #919193;
+}
+
+.education__degree {
+    margin-top: .5rem;
+}

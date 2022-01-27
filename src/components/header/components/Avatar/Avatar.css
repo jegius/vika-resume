@@ -1,0 +1,18 @@
+.Avatar {
+    padding: 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #009899;
+}
+
+.Avatar__image {
+    width: 200px;
+    height: 200px;
+    background-image: url("photo.jpeg");
+    background-size: 100%;
+    border-radius: 150px;
+    border: 3px solid white;
+    box-shadow: 0 0 7px #282c34 inset;
+
+}

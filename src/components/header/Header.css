@@ -1,0 +1,30 @@
+.Header {
+    display: flex;
+    justify-content: center;
+}
+
+.Header__left {
+    flex-basis: 35%;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.Header__right {
+    flex-basis: 40%;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.Header__item {
+    flex-basis: 25%;
+    background-color: #f6f6f6;
+    text-align: left;
+}
+
+.Header__about-me {
+    color: #009899;
+    font-size: 1.2rem;
+    margin-left: 2rem;
+}

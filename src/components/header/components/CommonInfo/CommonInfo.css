@@ -1,0 +1,24 @@
+.CommonInfo {
+    background-color: #009899;
+    flex-basis: 70%;
+    flex-grow: 1;
+    color: #f6f6f6;
+    justify-content: center;
+    padding-right: 4rem;
+    align-items: center;
+    text-align: right;
+}
+
+.CommonInfo__labels {
+    display: flex;
+}
+
+.CommonInfo__label {
+    border: 1px solid #009899;
+    font-size: .7rem;
+    padding: .2rem .4rem;
+    border-radius: 5px;
+    margin: .2rem;
+    box-shadow: 0 0 2px #525151;
+    background-color: #919193;
+}

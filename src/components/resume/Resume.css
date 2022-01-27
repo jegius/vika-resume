@@ -1,0 +1,14 @@
+.Resume {
+    display: flex;
+    height: 1084px;
+    width: 768px;
+    margin: 0 auto;
+    background-color: #f6f6f6;
+    flex-direction: column;
+}
+
+.Resume__main {
+    display: flex;
+    flex-grow: 1;
+    border-bottom: 2px solid #919193;
+}

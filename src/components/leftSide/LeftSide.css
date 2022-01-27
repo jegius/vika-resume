@@ -1,0 +1,57 @@
+.LeftSide {
+    flex-basis: 35%;
+    background-color: #525151;
+    padding: 2rem 2.5rem 0;
+    box-sizing: border-box;
+
+}
+
+.contact__item {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    font-size: .7rem;
+    color: #919193;
+}
+
+.Tags__list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Tag {
+    color: #f6f6f6;
+    font-size: .7rem;
+    border-radius: 4px;
+    padding: .2rem .3rem;
+    margin: .2rem;
+    box-shadow: 0 0 2px black;
+    background-color: #919193;
+}
+
+.contact__item_icon {
+    margin-right: .5rem;
+}
+
+.references__name {
+    font-size: .6rem;
+}
+
+.references__job-title {
+    margin-top: .2rem;
+    font-size: .6rem;
+}
+
+.reference__item {
+    margin-bottom: .5rem;
+}
+
+.references__contact {
+    margin-top: .2rem;
+    font-size: .6rem;
+}
+
+.reference__item {
+    font-size: .7rem;
+    color: #919193;
+}
